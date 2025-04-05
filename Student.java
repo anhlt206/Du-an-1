@@ -14,6 +14,8 @@ class Student {
         this.email = email;
         this.password = password;
     }
+
+    // Tôi ở nhánh Teacher. Tôi cũng muốn test conflict.
 }
 
 // Tôi comment để cho bị conflict
